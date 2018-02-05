@@ -1,0 +1,7 @@
+FAILED test: io.pivotal.springcloud.tests.specs.services.registry.ServiceRegistryHASpec > service registry instance is provisioned
+   Exception: java.lang.ClassCastException: [B cannot be cast to [C
+FAILED test: io.pivotal.springcloud.tests.specs.services.registry.ServiceRegistryZeroDowntimeLoadTestSpec > service registry instance is provisioned
+   Exception: geb.waiting.WaitTimeoutException: condition did not pass in 500.0 seconds (failed with exception)
+<https://s3.amazonaws.com/spring-cloud-services-artifacts/acceptance-tests-reports/1.4.x-nightly/doesnotexist.zip|Download Logs>
+<https://s3.amazonaws.com/spring-cloud-services-artifacts/acceptance-tests-reports/1.4.x-nightly/doesnotexisteither.zip|Download Test Results>
+
